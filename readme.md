@@ -12,7 +12,7 @@
     - Admin
       - Email đăng nhập: nguyentridangkhoi@gmail.com
       - Mật khẩu: 12345678
-  - Link video demo đồ án: 
+  - Link video demo đồ án: https://youtu.be/YTvHzFBxjJk
   - Tác giả: Nguyễn Trí Đăng Khôi.
   - Lớp: CĐTH18PMB.
   - Trường: Cao Đẳng Kỹ Thuật Cao Thắng.
