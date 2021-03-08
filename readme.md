@@ -20,7 +20,7 @@
   - Phân quyền User, Admin.
   - Chức năng bên User:
     - Đăng nhập, đăng ký, đăng xuất (Chạy câu lệnh php artisan make:auth của laravel).
-    - Cập nhât thông tin cá nhân (đổi mật khẩu, upload hình ảnh có sử dụng ajax).
+    - Cập nhật thông tin cá nhân (đổi mật khẩu, upload hình ảnh có sử dụng ajax).
     - Xem chi tiết công thức nấu ăn.
     - Bình luận về công thức nấu ăn (có sử dụng ajax).
     - Load công thức nấu ăn lên trang chủ.
